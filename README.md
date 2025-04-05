@@ -12,7 +12,7 @@ A cross-platform **Flutter** application that helps users search for local buses
 
 ## 📱 App Preview
 
-![Home Screen](snapshot/home_screen.png)
+![Home Screen](Snapshots/login.jpg)
 *Home Screen*
 
 ![Search Results](snapshot/search_results.png)
