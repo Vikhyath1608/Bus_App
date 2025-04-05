@@ -54,6 +54,7 @@ A cross-platform **Flutter** application that helps users search for local buses
 ```bash
 git clone https://github.com/Vikhyath1608/Bus_App.git
 cd Bus_App
+```
 flutter pub get
 3. Firebase Setup
 Create a Firebase project and connect the app.
