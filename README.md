@@ -55,47 +55,9 @@ A cross-platform **Flutter** application that helps users search for local buses
 git clone https://github.com/Vikhyath1608/Bus_App.git
 cd Bus_App
 ```
-flutter pub get
-3. Firebase Setup
-Create a Firebase project and connect the app.
+### 3. 📆 Future Enhancements
 
-Visit Firebase Console
-
-Create a project (e.g. local-bus-app)
-
-Add Android/iOS/Web apps as needed
-
-Download the config files:
-
-Place google-services.json into android/app/
-
-Place GoogleService-Info.plist into ios/Runner/
-
-Enable Firestore Database
-
-Replace Firestore rules using:
-
-css
-Copy
-Edit
-firebase deploy --only firestore:rules
-▶️ Running the App
-To run on your device or emulator:
-
-bash
-Copy
-Edit
-flutter run
-To run on a specific platform:
-
-bash
-Copy
-Edit
-flutter run -d chrome          # For Web
-flutter run -d android         # For Android
-flutter run -d macos           # For macOS
-📆 Future Enhancements
- 📍 Live location tracking
+ -📍 Live location tracking
 
  🗺 Google Maps route integration
 
@@ -105,28 +67,7 @@ flutter run -d macos           # For macOS
 
  💬 Feedback system
 
-🙌 Contributing
-Contributions are welcome and appreciated! 💙
 
-Steps:
-Fork the repo
-
-Create a new branch:
-
-bash
-Copy
-Edit
-git checkout -b feature/awesome-feature
-Make your changes
-
-Commit and push:
-
-bash
-Copy
-Edit
-git commit -m "Add awesome feature"
-git push origin feature/awesome-feature
-Open a Pull Request
 
 📧 Contact
 Developer: Vikhyath R A
@@ -135,22 +76,6 @@ Email: vikhyathraims0109@gmail.com
 
 GitHub: @Vikhyath1608
 
-📜 License
-This project is licensed under the MIT License.
-See LICENSE for more details.
-
 Crafted with ❤️ using Flutter and Firebase.
 
-yaml
-Copy
-Edit
 
----
-
-Let me know if you'd like:
-- Deployment instructions for Firebase Hosting
-- GitHub Action CI/CD config
-- A logo/header image at the top
-
-Happy to help add more polish or technical depth as needed!
-```
