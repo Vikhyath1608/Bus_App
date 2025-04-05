@@ -67,5 +67,4 @@ cd Bus_App
 
 ### 📧 Contact
 Email: vikhyathraims0109@gmail.com
-GitHub: @Vikhyath1608
 
