@@ -55,19 +55,16 @@ A cross-platform **Flutter** application that helps users search for local buses
 git clone https://github.com/Vikhyath1608/Bus_App.git
 cd Bus_App
 ```
-### 3. 📆 Future Enhancements
+### 📆 Future Enhancements
 - 📍 Live location tracking
 - 🗺 Google Maps route integration
-
- 🔔 Push notifications for bus arrival
-
- 📊 User analytics & favorite routes
-
- 💬 Feedback system
+- 🔔 Push notifications for bus arrival
+- 📊 User analytics & favorite routes
+- 💬 Feedback system
 
 
 
-📧 Contact
+### 📧 Contact
 Developer: Vikhyath R A
 
 Email: vikhyathraims0109@gmail.com
