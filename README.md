@@ -56,10 +56,8 @@ git clone https://github.com/Vikhyath1608/Bus_App.git
 cd Bus_App
 ```
 ### 3. 📆 Future Enhancements
-
- -📍 Live location tracking
-
- 🗺 Google Maps route integration
+- 📍 Live location tracking
+- 🗺 Google Maps route integration
 
  🔔 Push notifications for bus arrival
 
