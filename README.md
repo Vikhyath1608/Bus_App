@@ -9,27 +9,18 @@
 A cross-platform **Flutter** application that helps users search for local buses between two locations. The app provides real-time information including bus names, routes, fares, stops, and estimated travel time using **Firebase Firestore** as a backend.
 
 ---
+App Preview
 
 ## 📱 App Preview
 
-## 📱 App Preview
-
 <p align="center">
-  <img src="Snapshots/login.jpg" alt="Home Screen" width="300" height="600"/>
-  <br/>
-  <em>Home Screen</em>
+  <img src="snapshot/home_screen.png" alt="Home Screen" width="250" height="500" style="margin-right: 10px;"/>
+  <img src="snapshot/search_results.png" alt="Search Results" width="250" height="500" style="margin-right: 10px;"/>
+  <img src="snapshot/bus_details.png" alt="Bus Details" width="250" height="500"/>
 </p>
 
 <p align="center">
-  <img src="snapshot/search_results.png" alt="Search Results" width="300" height="600"/>
-  <br/>
-  <em>Search Results</em>
-</p>
-
-<p align="center">
-  <img src="snapshot/bus_details.png" alt="Bus Details" width="300" height="600"/>
-  <br/>
-  <em>Bus Details</em>
+  <em>Home Screen &nbsp; | &nbsp; Search Results &nbsp; | &nbsp; Bus Details</em>
 </p>
 
 ---
