@@ -17,11 +17,10 @@ App Preview
   <img src="Snapshots/login.jpg" alt="Home Screen" width="250" height="500" style="margin-right: 10px;"/>
   <img src="Snapshots/search.jpg" alt="Search Results" width="250" height="500" style="margin-right: 10px;"/>
     <img src="Snapshots/admin.jpg" alt="Search Results" width="250" height="500" style="margin-right: 10px;"/>
-  <img src="Snapshots/admin_home.jpg" alt="Bus Details" width="250" height="500"/>
 </p>
 
 <p align="center">
-  <em>Login Page &nbsp; | &nbsp; Search Results &nbsp; | &nbsp; Manage Bus &nbsp; | &nbsp; Admin </em>
+  <em>Login Page &nbsp; | &nbsp; Search Results &nbsp; | &nbsp; Manage Bus </em>
 </p>
 
 ---
