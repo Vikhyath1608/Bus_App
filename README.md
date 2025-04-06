@@ -14,13 +14,13 @@ App Preview
 ## 📱 App Preview
 
 <p align="center">
-  <img src="snapshot/home_screen.png" alt="Home Screen" width="250" height="500" style="margin-right: 10px;"/>
+  <img src="Snapshots/login.jpg" alt="Home Screen" width="250" height="500" style="margin-right: 10px;"/>
   <img src="snapshot/search_results.png" alt="Search Results" width="250" height="500" style="margin-right: 10px;"/>
   <img src="snapshot/bus_details.png" alt="Bus Details" width="250" height="500"/>
 </p>
 
 <p align="center">
-  <em>Home Screen &nbsp; | &nbsp; Search Results &nbsp; | &nbsp; Bus Details</em>
+  <em>Login Page &nbsp; | &nbsp; Search Results &nbsp; | &nbsp; Bus Details</em>
 </p>
 
 ---
